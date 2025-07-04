@@ -57,8 +57,8 @@ This project uses `useMemo` to **memoize expensive computations** such as filter
 ## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/invoice-dashboard.git
-cd invoice-dashboard
+git clone https://github.com/SanyaShresta25/invoice-dashboard-using-useMemo.git
+cd my-app
 npm install
 npm run dev
 ```
